@@ -17,7 +17,7 @@ function changingColor(){
  }
  return color;
 }
-let arr=["square","rect","tri","diamond"];
+let arr=["square","rect","diamond"];
 function changingShape(){
    
     let idx=Math.floor(Math.random()*arr.length);
